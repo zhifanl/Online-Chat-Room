@@ -1,10 +1,14 @@
-# ***Chat-with-us***
+# ***Online Chat Room***
 #### Created by Zhifan (Tom) Li in Summer 2021
-#### Chat-with-us is a
-- Real time web app
-- Websocket protocol
+#### **URL of the website:** **<https://tom-online-chat-room.herokuapp.com/>**
+#### This web app is a
+- Real time chat room
 - Support full duplex communication
-- 
+- Support chatting in different rooms
+- Support bad word detection
+
 
 ### ***Technology used:***
 - Socket.io library
+- Node.js Express.js 
+- HTML, CSS, Javascript
