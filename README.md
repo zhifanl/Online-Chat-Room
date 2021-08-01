@@ -6,6 +6,7 @@
 - Support full duplex communication
 - Support chatting in different rooms
 - Support bad word detection
+- Support user to share their locations with each other
 
 
 ### ***Technology used:***
