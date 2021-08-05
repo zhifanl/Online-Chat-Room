@@ -1,4 +1,4 @@
-# ***Online Chat Room***
+# ***Online Multi-user Chat Room***
 #### Created by Zhifan (Tom) Li in Summer 2021
 #### **URL of the website:** **<https://tom-online-chat-room.herokuapp.com/>**
 #### This web app is a
