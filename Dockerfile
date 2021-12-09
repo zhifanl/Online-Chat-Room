@@ -1,5 +1,6 @@
 FROM node:alpine
 
+WORKDIR /usr/app
 #copy package.json and all the other file
 COPY ./ ./
 
